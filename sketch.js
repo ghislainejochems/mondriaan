@@ -1,3 +1,7 @@
+// MMT4, chapter 04 assignment 01 
+// Source from https://github.com/CocoDeijmann/mondriaan
+// Edited by Ghislaine Jochems
+
 
 var weatherjson;
 
